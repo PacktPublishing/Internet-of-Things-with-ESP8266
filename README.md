@@ -22,6 +22,12 @@ digitalWrite(5, HIGH);
 void loop() {
 }
 
+##References
+[IoT: Building Arduino-Based Projects](https://www.packtpub.com/hardware-and-creative/iot-building-arduino-based-projects?utm_source=github&utm_medium=repository&utm_campaign=9781787120631)
+
+[Learning IoT with Particle Photon and Electron](https://www.packtpub.com/hardware-and-creative/learning-iot-particle-photon-and-electron?utm_source=github&utm_medium=repository&utm_campaign=9781785885297)
+
+
 
 
 
