@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B05403?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 #Internet of Things with ESP8266
 
 This is the code repository for [Internet of Things with ESP8266](https://www.packtpub.com/hardware-and-creative/internet-things-esp8266?utm_source=GitHub&utm_medium=Repository&utm_campaign=9781786468024) , published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
